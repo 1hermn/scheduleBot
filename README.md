@@ -29,9 +29,9 @@ BOT_TOKEN=""
 
 # Документация по каждому пункту
 
-1. [Парсинг и обработка](./src/modules/googlesheet-parser/README.md) таблицы расписания
-2. [Рассылка по пользователям](./src/modules/rsmq/README.md)
-3. [Telegram Bot](./src/modules/telegram/README.md)
+1. [Парсинг и обработка](./src/modules/googlesheet-parser) таблицы расписания
+2. [Рассылка по пользователям](./src/modules/rsmq)
+3. [Telegram Bot](./src/modules/telegram)
 
 # Общая информация
 
